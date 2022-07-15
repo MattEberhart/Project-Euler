@@ -1,4 +1,3 @@
-
 public class Prob001 {
 
 	public static void main(String[] args) {
